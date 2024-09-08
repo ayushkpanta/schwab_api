@@ -1,0 +1,3 @@
+# must hide env file!
+# not actually init in this codebase though
+.env
